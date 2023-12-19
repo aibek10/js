@@ -1,2 +1,3 @@
-const myName = "My name is";
-const myStr = '"and I am well!" + myName + ';
+var myName = "Aibek";
+var myStr = "My name is " + myName + " and I am well!";
+console.log(myStr)
